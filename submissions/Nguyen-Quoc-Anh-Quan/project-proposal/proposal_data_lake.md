@@ -157,7 +157,7 @@ Kiến trúc này đảm bảo:
 
 
 ## 2.3. Component Design
-![alt text](img/data_lake.png)
+![alt text](img/Untitled_new.png)
 
 # 3\. Technical Implementation
 
